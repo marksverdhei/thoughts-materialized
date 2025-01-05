@@ -71,8 +71,8 @@ Therefore, it is important that if we, in the current day, or in the future
 
 I do not consider myself a utilitarian, but I truly believe utilitarian principles are integral to make the best world we can, which is our responsibility as humans.  
 
-
-
+There are many other animals that commit infanticide among other abominations. Exhaustively evaluating these animals would be a waste of time and resources, but the principles communicated in this article should be considered
+and applied to the remainder of our fauna.  
 
 
 ### References  
