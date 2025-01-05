@@ -36,8 +36,10 @@ https://en.wikipedia.org/wiki/Island_restoration#Aleutian_Islands
 
 ### Possible idealized solutions  
 
-
 #### Retetion of species through biological records  
+
+To throw away the history of any species existing would be an insult to the world we live in, and the entropy of the universe that is life.  
+Therefore, it is important that if we, in the current day, or in the future 
 
 #### Retention of species through human-supervision  
 
@@ -46,3 +48,6 @@ https://en.wikipedia.org/wiki/Island_restoration#Aleutian_Islands
 
 
 
+### References  
+
+()[https://bioone.org/journals/ursus/volume-2022/issue-33e10/URSUS-D-20-00031.2/Cannibalism-in-bears/10.2192/URSUS-D-20-00031.2.short]
