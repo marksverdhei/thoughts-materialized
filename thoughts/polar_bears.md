@@ -26,14 +26,23 @@ scientifically evident in the polar bear species.
 
 ### Counter-arguments  
 
-### Possible idealized solutions
+#### Symbiotic and ecological role of polar bears  
 
-#### Retetion of species through biological records and human-supervised captivity
+https://en.wikipedia.org/wiki/Island_restoration#Aleutian_Islands
 
-### Conclusion
+#### Biodiversity and cosmetic arguments  
 
 "If you kill a cockroach, you're a hero. If you kill a butterfly, you're a villain. Morals have aesthetic criteria."
 
+### Possible idealized solutions  
 
-https://en.wikipedia.org/wiki/Island_restoration#Aleutian_Islands
+
+#### Retetion of species through biological records  
+
+#### Retention of species through human-supervision  
+
+### Conclusion
+
+
+
 
