@@ -1,5 +1,7 @@
 ## Polar bears are monsters that we should allow to go extinct  
 
+Opinion
+
 Philosophy, politics, ethics  
 
 Trigger warning: rape, murder, and cannibalism
@@ -12,10 +14,8 @@ I'll ask you the following question:
 
 Is any being that is pre-programmed to brutally murder and eat children of its own species good for the world?  
 
-Well, adult male polar bears can't help it. Maybe you have seen the natural geographic channel episode that I have,
-where a female polar bear with her cubs have to escape an unknown male polar bear to avoid having her cubs mauled to death
-and being raped by the murderer of her own children. Now, we have two words that euphemistically describe this process: Infanticide and mating, or  sexually selected infanticide (SSI) when in conjunction.
-Perhaps a definition question but I believe it might be humanity's moral obligation to prevent the existence of such beings.
+Well, adult male polar bears can't help it. Maybe you have seen the animal documentary episode that I have,
+where a female polar bear with her cubs have to escape an unknown male polar bear to avoid having her cubs mauled to death and being raped by the murderer of her own children. I, for one, am very happy I did not witness such an abomination of action. Now, we have two words that euphemistically describe this process: Infanticide and mating, or sexually selected infanticide (SSI) when in conjunction. Perhaps a definition question but I believe it might be humanity's moral obligation to prevent the existence of such beings.
 
 In order for my argument to hold, I first need to present evidence, or at the very least justify my claim that
 adult male polar bears are conditioned to behave in this way.  
