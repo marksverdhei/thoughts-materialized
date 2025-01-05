@@ -1,4 +1,6 @@
-# Welcome to my mind  
+By Markus Heiervang  
+
+## Welcome to my mind  
 
 _Thoughts, materialized_ is the name of my personal collection of 
 texts describing concepts I have been pondering and opinions I have made.
