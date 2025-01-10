@@ -23,16 +23,14 @@ In the field of linguistics, a popular theory was proposed by Noam Chomsky that 
 The term "Universal grammar" was thus coined. 
 
 Why am I bringing this up? 
-In the current landscape of AI, words are represented as data discrete data in the sense that a character, token, or word is a 
-one-hot encoded vector of some vocabulary, and a text is a sequence of such vectors.
+In the current landscape of AI, words are represented as data discrete data in the sense that a character, token, or word is a one-hot encoded vector of some vocabulary, and a text is a sequence of such vectors.
 
 The most advanced, task-performant and general approaches to NLP tasks turn sequences of discrete vectors encoding character sequences into continuous (in theory) vector representations of very high dimensions.  
 Language models model language, meaning that it will learn any cognition* necessary to most accurately model the language it is trained on.  
 If some component of universal grammar is needed to model any language, language modelling is approximation of universal grammar machines.
 I understand it so that there is overwhelming scientific evidence that langugage models benefitfrom transfer learning when utilizing data of sufficient volumes of multiple languages.  
 It appears that language similarity plays a role in the number of steps necessary to learn a separate language, something that applies both to AI and humans.
-The current evidence might not be as overwhelming on the following hypothesis that I hold, but I hypothesize that for any language that has been invented by human,
-a language model of an existing architecture with a sufficient size would exhibit transfer learning when training on the two languages. 
+The current evidence might not be as overwhelming on the following hypothesis that I hold, but I hypothesize that for any language that has been invented by human, a language model of an existing architecture with a sufficient size would exhibit transfer learning when training on the two languages. 
 
 Ilya Sutskever who is considered the brain behind OpenAI by many, formulated "The Deep Learning Hypothesis" as: "Anything a human can do in 0.1 seconds, a big 10-layer neural network can do, too!". 
 What are the implications of this claim? It is mathematically proven that a deep neural network with two hidden layers can approximate any function, meaning that if it is true, a big 2-layer nn could also do anything a human brain can do in 0.1 seconds. 
@@ -53,10 +51,15 @@ With this context, you might understand why I chose this name, but if not, I wil
 
 Human language is materialization of thought.
 It is encoding concepts created by the inner workings of a human mind into a discrete space of sound sequences that again are encoded into writing: a discrete space of symbol sequences with the purpose of reconstructing the thought.
-This text is materialization of thought, as it is material, both existing as a pattern of light on your screen, but also existing as series of bytes inside a computer.
-This is thoguhts, materialized.
+This text is thought and this thought is material: existing as a pattern of light emitted by a screen, existing as series of bytes inside a computer, and existing as ink on paper.
+
+This is thoughts, materialized.
 
 ---
 
+
+
 *you can substitute this word with something else if you think using the term cognition is too presumptous
+
+
 **estimated by ChatGPT o1
