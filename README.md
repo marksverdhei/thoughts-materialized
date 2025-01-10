@@ -7,7 +7,7 @@ texts describing concepts I have been pondering, opinions and hypotheses I have 
 
 ### Thoughts / Index  
 
-- [_On the name: Language is the materialization of thoughts_](https://marksverdhei.github.io/thoughts-materialized/thoughts/on_the_name)
+- [_On the name: Language is the materialization of thoughts_](https://marksverdhei.github.io/thoughts-materialized/thoughts/on-the-name)
 
 ---
 
