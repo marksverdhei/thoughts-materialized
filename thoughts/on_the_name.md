@@ -49,7 +49,7 @@ In the LCM paper they lay forth likely empirical evidence that learning to reaso
 To me, that is a clear argument in favor of both the proposition that language models approximate universal grammar, 
 that learning universal grammar can be optimized for more directly than naively predicting next token, and in some sense the existence of universal grammar itself.  
 
-With this context, you might understand why I chose this name, but if not, i will end the piece with these fews sentences:
+With this context, you might understand why I chose this name, but if not, I will end the piece with these fews sentences:
 
 Human language is materialization of thought.
 It is encoding concepts created by the inner workings of a human mind into a discrete space of sound sequences that again are encoded into writing: a discrete space of symbol sequences with the purpose of reconstructing the thought.
