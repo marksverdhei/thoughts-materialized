@@ -9,5 +9,7 @@ Inspiration
 Creativitiy - extrapolation or interpolation?  
 VLMs that complete the sine curve  
 
+Hold machine and human to the same standard  
+
 Todo: contrary arguments  
 
