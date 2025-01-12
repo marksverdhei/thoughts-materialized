@@ -39,7 +39,7 @@ So an average prehistoric brain does 9,467e+9 things that some artificial neural
 What I'm trying to say is that if the literal interpretation of the hypothesis is true, an artificial neural network can do everything a human brain can do in theory.  
 
 Maybe you can now see now how this connects to automaticity. Automaticity is compressing cognition steps for problem solving. 
-And statistical learning itself is in itself compression as explained in Ilya's "An observation on generalization".
+And statistical learning itself is in itself compression as explained in Ilya's "An observation on generalization".[^3]
 For dynamic problem solving (e.g. solving novel tasks), compsite cognition steps are used. Sometimes verbal cognition (internal monologue),
 sometimes non-verbal cognition of longer duration, and sometimes cognition through reasoning using explicit language designed for the domain of the task (e.g. visualization, programming languages, mathematic notation). 
 
