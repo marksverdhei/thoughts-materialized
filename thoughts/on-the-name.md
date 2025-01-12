@@ -58,12 +58,13 @@ This is thoughts, materialized.
 
 ---
 
-[^*]: You can substitute this word with something else if you think using the term cognition is too presumptous
+*You can substitute this word with something else if you think using the term cognition is too presumptous  
 
-[^**]: Estimated by ChatGPT o1: https://chatgpt.com/share/67817604-d50c-800d-8fb9-20bd5d1b6b36
+**Estimated by ChatGPT o1: https://chatgpt.com/share/67817604-d50c-800d-8fb9-20bd5d1b6b36  
 
 ---
 
 [^1]: [Wikipedia article on Universal Grammar](https://en.wikipedia.org/wiki/Universal_grammar#:~:text=Universal%20grammar%20(UG)%2C%20in,possible%20human%20language%20could%20be.)  
 [^2]: [Youtube: 'Ilya Sutskever: "Sequence to sequence learning with neural networks: what a decade"'](https://youtu.be/1yvBqasHLZs?si=ec_L1ASK8sS2_2Hk&t=119)  
-[^3]: [Youtube: 'Ilya Sutskever: "An Observation on Generalization"'](https://www.youtube.com/watch?v=AKMuA_TVz3A)
+[^3]: [Youtube: 'Ilya Sutskever: "An Observation on Generalization"'](https://www.youtube.com/watch?v=AKMuA_TVz3A)  
+
