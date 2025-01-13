@@ -1,2 +1,4 @@
 title: "Thoughts, Materialized"
 theme: minima
+minima:
+  color_mode: auto
