@@ -43,7 +43,7 @@ And statistical learning itself is in itself compression as explained in Ilya's 
 For dynamic problem solving (e.g. solving novel tasks), compsite cognition steps are used. Sometimes verbal cognition (internal monologue),
 sometimes non-verbal cognition of longer duration, and sometimes cognition through reasoning using explicit language designed for the domain of the task (e.g. visualization, programming languages, mathematic notation). 
 
-Recently, neural language modelling methods have seen improvement by mapping reasoning to a continious representation space, as demonstrated by Meta's Coconut paper and Large Concept Model paper. 
+Recently, neural language modelling methods have seen improvement by mapping reasoning to a continious representation space, as demonstrated by Meta's Coconut paper[^4] and Large Concept Model paper[^5]. 
 In the LCM paper they lay forth likely empirical evidence that learning to reason in latent space improves multilinguality.
 To me, that is a clear argument in favor of both the proposition that language models approximate universal grammar, 
 that learning universal grammar can be optimized for more directly than naively predicting next token, and in some sense the existence of universal grammar itself.  
@@ -67,4 +67,5 @@ This is thoughts, materialized.
 [^1]: [Wikipedia article on Universal Grammar](https://en.wikipedia.org/wiki/Universal_grammar#:~:text=Universal%20grammar%20(UG)%2C%20in,possible%20human%20language%20could%20be.)  
 [^2]: [Youtube: 'Ilya Sutskever: "Sequence to sequence learning with neural networks: what a decade"'](https://youtu.be/1yvBqasHLZs?si=ec_L1ASK8sS2_2Hk&t=119)  
 [^3]: [Youtube: 'Ilya Sutskever: "An Observation on Generalization"'](https://www.youtube.com/watch?v=AKMuA_TVz3A)  
-
+[^4]: [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769v2)  
+[^5]: [Large Concept Models: Language Modeling in a Sentence Representation Space](https://arxiv.org/abs/2412.08821)
