@@ -11,8 +11,8 @@ It is the most efficient general way of communicating information that we know o
 Thought is something that we ourselves have not sufficiently understood. 
 But we know that thought exists in multiple forms. 
 
-There are many cognitive tasks that the brain completes within milliseconds.  
-Facial recognition, audio identification, odor detection are cognitive tasks completed within milliseconds. 
+There are many cognitive tasks that the brain completes within some hundred milliseconds.  
+Facial recognition, audio identification, odor detection are some examples. 
 In most cases, we do not need to reason to solve these tasks. This is called "automaticity".  
 
 The domain in which my main expertise lies is the domain of artificial intelligence.  
