@@ -1,0 +1,2 @@
+# Consciousness-as-a-pattern  
+
