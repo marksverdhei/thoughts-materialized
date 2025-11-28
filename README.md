@@ -4,8 +4,10 @@ By Markus Heiervang
 
 _Thoughts, materialized_ is the name of my personal collection of 
 texts describing concepts I have been pondering, opinions and hypotheses I have made.
+
+
 It will contain typographical errors, ortographical errors, and other editorial mistakes, as I will not use 
-language models/AI to write the content _for_ me. These thoughts have no middleman.  
+language models/AI to write the content _for_ me (unless explicitly stated).
 
 
 ### Thoughts / Index  
